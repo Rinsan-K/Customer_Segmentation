@@ -13,7 +13,7 @@ To use the scripts and notebooks, install the following packages:
 pandas
 numpy
 matplotlib
-seaborn
+seaborn 
 
 Getting Started
 Clone the repository:
